@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git link*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git link*\n           *\n🧚‍♂️Black panther Owner Shefiq 🧚‍♂️\n\n*🧞‍♂️ https://github.com/Shefiqshaa/Black-panther-*\n*" 
 
     
 
