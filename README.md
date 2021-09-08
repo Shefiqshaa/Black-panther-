@@ -1,4 +1,4 @@
-# Sophia
+# BLACK PANTHER 
 Simple whatsapp bot | Reedited from whatsasena 
 
 
