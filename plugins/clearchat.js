@@ -41,6 +41,6 @@ Asena.addCommand({pattern: 'clear', fromMe: true, desc: END, dontAddCommandList:
 
     await message.client.modifyChat (message.jid, ChatModification.delete);
 
-    await message.sendMessage('```🏳 Chat cleared By SOPHIA BOT😊 🏳```');
+    await message.sendMessage('```🏳 Chat cleared By *✩  🥷🏻  𝐵𝓁𝒶𝒸𝓀 𝓅𝒶𝓃𝓉𝒽𝑒𝓇  🥷🏻  ✩*```');
 
 }));
