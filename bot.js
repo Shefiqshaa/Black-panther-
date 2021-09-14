@@ -469,7 +469,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '```Type``` *.yes* ```Adichal bot update aakum.```\n\n' + degisiklikler + '```', MessageType.text
+                        '```Type``` *.update now* ```Adichal bot update aakum.```\n\n' + degisiklikler + '```', MessageType.text
                     ); 
                 }
             }
